@@ -39,7 +39,7 @@ const Navbar = () => {
             <ion-icon name={open ? "close" : "menu"}></ion-icon>
           </CheckOutsideClick>
         </div>
-        <div className="cursor-pointer flex items-center font-[Poppins] text-gray-800">
+        <div className="cursor-pointer flex items-center">
           <img src={logoMegafit} className="w-40 md:w-52" alt="logo" />
         </div>
         <ul

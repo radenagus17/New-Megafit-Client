@@ -15,7 +15,7 @@ const HomeSection_1 = () => {
       </div>
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-12 text-center">
         <div className="flex flex-col justify-center">
-          <h2 className="text-5xl md:text-7xl font-[Poppins] italic tracking-wide text-white uppercase drop-shadow-[2px_3px_2px_rgba(0,0,0,0.5)]">Arrange your free trial now</h2>
+          <h2 className="text-5xl md:text-7xl italic tracking-wide text-white uppercase drop-shadow-[2px_3px_2px_rgba(0,0,0,0.5)]">Arrange your free trial now</h2>
           <p className="text-white italic mx-auto py-4 max-w-md drop-shadow-[1px_2px_1px_rgba(0,0,0,0.5)]">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
           <div className="drop-shadow-md">
             <Button style={btn}>free trial now</Button>

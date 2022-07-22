@@ -10,11 +10,15 @@ const HomeSection_2 = () => {
     <div className="w-full h-screen mt-0 md:mt-28">
       <div className="w-full mx-auto flex flex-col items-center justify-center h-full">
         <div className="flex flex-col justify-center h-full">
-          <div className="py-12 md:py-7 mx-auto">
-            <Button style={btn1}>Facilities</Button>
+          <div className="pb-10 mx-auto">
+            <Button style={btn1} link="facilities">
+              Facilities
+            </Button>
           </div>
-          <div className="py-4 mx-auto">
-            <Button style={btn2}>Membership</Button>
+          <div className="py-5 mx-auto">
+            <Button style={btn2} link="membership">
+              Membership
+            </Button>
           </div>
           <div>
             <ImageSlider />

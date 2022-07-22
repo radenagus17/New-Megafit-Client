@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="w-full mt-0 lg:mt-40 bg-slate-900 text-white px-6 font-[Poppins]">
+    <div className="w-full mt-0 lg:mt-40 bg-slate-900 text-white px-6">
       <div className="grid grid-cols-2 md:grid-cols-4 mx-auto max-w-screen-2xl border-b-2 border-gray-600 py-6 md:px-8">
         <div className="md:order-1 text-sm md:text-lg">
           <h4>PT. Pola Megafit Prima</h4>

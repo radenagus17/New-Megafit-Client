@@ -29,7 +29,7 @@ const MemberSection_1 = () => {
 
   return (
     <section className="w-full h-screen mt-12 md:my-60">
-      <div className="w-full mx-auto flex flex-col items-center justify-center h-full font-[Poppins]">
+      <div className="w-full mx-auto flex flex-col items-center justify-center h-full">
         {memberships.map(({ id, image, title }) => (
           <div
             key={id}

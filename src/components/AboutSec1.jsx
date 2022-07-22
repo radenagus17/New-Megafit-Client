@@ -57,7 +57,7 @@ const AboutSec1 = () => {
   ];
   return (
     <section className="w-full h-screen -mt-3 md:mt-36">
-      <div className="w-full mx-auto flex flex-col items-center justify-center h-full font-[Poppins]">
+      <div className="w-full mx-auto flex flex-col items-center justify-center h-full">
         <img src={logoMegafit} className="w-72 md:w-1/3" alt="logo" />
         <h1 className="text-3xl font-semibold md:text-5xl py-20 italic">Lorem Ipsum</h1>
         <ul className="text-xs md:text-3xl py-2 text-lime-500">

@@ -65,7 +65,7 @@ const ImageSlider = () => {
     <div ref={corRef} className="w-full select-none relative">
       <div className="aspect-w-16 aspect-h-9 before:absolute before:inset-0 before:bg-gray-400 before:w-full before:h-full before:opacity-30">
         <img className="object-cover object-center h-72 md:h-[26rem] w-[23rem] md:w-[60vw] mx-auto" src={images[currentIndex].src} alt="" />
-        <div className="absolute text-white bottom-7 italic drop-shadow-lg font-[Poppins] px-6">
+        <div className="absolute text-white bottom-7 italic drop-shadow-lg px-6">
           <h3 className="text-4xl md:text-5xl py-2">{images[currentIndex].title}</h3>
           <p className="text-xs md:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, non!</p>
         </div>
