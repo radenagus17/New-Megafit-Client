@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://new-megafit-client.netlify.app"
+  status = 200
