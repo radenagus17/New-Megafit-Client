@@ -1,3 +1,5 @@
+/*    /index.html   200
+
 # Redirect with a 301
-/membership         /membership              200
+/membership         https://new-megafit-client.netlify.app/membership              200
 

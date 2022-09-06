@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "/membership"
+  to = "https://new-megafit-client.netlify.app/membership"
   status = 200
